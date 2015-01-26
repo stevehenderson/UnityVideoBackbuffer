@@ -4,7 +4,7 @@ This project is a simple example of how to place webcamera video into the backbu
 
 It is modified from this example:  http://jaymayblog.blogspot.com/2012/08/camera-feed-background-in-unity.html
 
-Please check out the wiki for a tutorial.
+Please check out the wiki for a tutorial:
 
-https://github.com/stevehenderson/UnityVideoBackbuffer/wiki
+(https://github.com/stevehenderson/UnityVideoBackbuffer/wiki/Unity-Video-Webcam-Backbuffer-Tutorial)
 
